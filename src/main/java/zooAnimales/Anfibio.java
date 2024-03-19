@@ -63,5 +63,4 @@ public class Anfibio extends Animal {
 		return Anfibio;
 		
 	}
-
 }

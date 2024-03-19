@@ -65,5 +65,4 @@ public class Reptil extends Animal{
 		return Reptil;
 		
 	}
-
 }

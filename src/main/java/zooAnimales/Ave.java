@@ -53,5 +53,4 @@ public class Ave extends Animal{
 		aguilas++;
 		return Ave;
 	}
-
 }
